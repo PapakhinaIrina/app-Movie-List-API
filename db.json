@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": "957306a7-55ce-4c3e-b51b-63282f583356",
+      "name": "dvsvvv"
+    },
+    {
+      "id": "a68b2780-3f01-476b-842d-3abb35f5d853",
+      "name": ""
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

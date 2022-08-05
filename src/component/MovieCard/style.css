@@ -1,0 +1,16 @@
+.movie-title{
+  color: black;
+  font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 120%;
+}
+
+.movie-card{
+  margin: 15px;
+  display: flex;
+  grid-template-columns: auto;
+  column-gap: 25px;
+  row-gap: 30px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, .45);
+
+}

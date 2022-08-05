@@ -1,0 +1,53 @@
+.comment{
+  margin-top: auto;
+  padding: 12px;
+  width: 845px;
+  height: 70px;
+  font-size: 20px;
+  border-radius: 8px;
+
+}
+
+.string{
+  color: rgb(169, 13, 13);
+  font-size: 18px;
+  font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+} 
+
+.leave {
+  margin-top: 130px;
+  color: rgb(11, 11, 11);
+  font-size: 35px;
+  font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button {
+  margin-top: 1px;
+  color: rgb(11, 11, 11);
+  background-color: rgb(143, 197, 255);
+  font-size: 20px;
+  border-radius: 8px;
+  padding: 5px;
+  height: 60px;
+  width: 150px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button_delete{
+  margin-top: 10px;
+  color: rgb(11, 11, 11);
+  background-color: rgb(102, 196, 240);
+  font-size: 20px;
+  border-radius: 8px;
+  padding: 5px;
+  height: 40px;
+  width: 250px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.comments{
+margin-top: 20px;
+}

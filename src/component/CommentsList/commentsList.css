@@ -1,0 +1,17 @@
+.com-enter {
+  opacity: 0;
+}
+
+.com-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.com-exit {
+  opacity: 1;
+}
+
+.com-exit-active {
+  opacity: 0;
+  transition: opacity 500ms ease-in;
+}
