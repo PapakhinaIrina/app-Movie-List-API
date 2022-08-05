@@ -6,4 +6,4 @@ ___
 
 Разработчик:  [Ирина Папахина](https://github.com/PapakhinaIrina) 
 ___
-![gif](gif.gif)
+![gif](20220805-182522-455.gif)
